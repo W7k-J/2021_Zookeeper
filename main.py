@@ -4,7 +4,7 @@ Created on Wed Feb 17 13:47:39 2021
 
 Super simple project I did for JetBrain Academy. Based on provided template (ANSI animals)
 
-@author: w7k
+@author: w7k-j
 """
 
 camel = r"""
